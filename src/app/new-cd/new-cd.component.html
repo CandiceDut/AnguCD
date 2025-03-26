@@ -63,7 +63,7 @@
             <div class="form-group">
                 <label for="dateDeSortie">Date De Sortie</label><br>
                 <div class="input">
-                    <input type="text" class="form-control" id="dateDeSortie" formControlName="dateDeSortie"/>
+                    <input type="date" class="form-control" id="dateDeSortie" formControlName="dateDeSortie"/>
                     <div *ngIf="formulaire.get('dateDeSortie')?.invalid &&
                             formulaire.get('dateDeSortie')?.errors &&
                             (formulaire.get('dateDeSortie')?.dirty || formulaire.get('dateDeSortie'))">
@@ -76,7 +76,7 @@
             <div class="form-group">
                 <label for="quantite">Quantite</label><br>
                 <div class="input">
-                    <input type="text" class="form-control" id="quantite" formControlName="quantite"/>
+                    <input type="number" class="form-control" id="quantite" formControlName="quantite"/>
                     <div *ngIf="formulaire.get('quantite')?.invalid &&
                             formulaire.get('quantite')?.errors &&
                             (formulaire.get('quantite')?.dirty || formulaire.get('quantite'))">
