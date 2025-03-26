@@ -1,0 +1,33 @@
+{
+  "CD": [
+    {
+      "id": "1",
+      "title": "The DarkSide of the Moon",
+      "author": "Pink Floyd",
+      "price": 10,
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/The_Dark_Side_of_the_Moon_Cover.svg/220px-The_Dark_Side_of_the_Moon_Cover.svg.png",
+      "dateDeSortie": "1973-03-01T00:00:00.000Z",
+      "quantite": 1
+    },
+    {
+      "id": "2",
+      "title": "Pulse",
+      "author": "Pink Floyd",
+      "price": 10,
+      "thumbnail": "https://pinkfloydhyperbase.dk/illu/covers/pulse.jpg",
+      "dateDeSortie": "1974-04-11T00:00:00.000Z",
+      "quantite": 2,
+      "onsale": true
+    },
+    {
+      "id": "21",
+      "title": "rjjjjjjjjjjjjqli",
+      "author": "huidfgblsd",
+      "thumbnail": "qdrem",
+      "dateDeSortie": "2025-03-06",
+      "quantite": 4,
+      "price": 154,
+      "onsale": false
+    }
+  ]
+}
